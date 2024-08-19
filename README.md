@@ -1,6 +1,7 @@
 # collaboration
 
-Pull Request에 성공하여 merge될 경우 (https://github.com/jocob107/collaboration1) 에서 이름을 확인할 수 있습니다 :)
+Pull Request에 성공하여 merge될 경우 ( https://ko.fm/7rh)
+(https://github.com/jocob107/collaboration1) 에서 이름을 확인할 수 있습니다 :)
 
 ### pull request 연습하세요.
 
